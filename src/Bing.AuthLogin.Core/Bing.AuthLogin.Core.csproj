@@ -10,29 +10,26 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Alibaba\" />
-    <Folder Include="Baidu\" />
-    <Folder Include="Coding\" />
-    <Folder Include="DingTalk\" />
-    <Folder Include="Douyin\" />
-    <Folder Include="Facebook\" />
-    <Folder Include="Gitee\" />
-    <Folder Include="Github\" />
-    <Folder Include="Jd\" />
-    <Folder Include="MeiliShuo\" />
-    <Folder Include="Microsoft\" />
-    <Folder Include="Oschina\" />
-    <Folder Include="QQ\" />
-    <Folder Include="Taobao\" />
-    <Folder Include="Weibo\" />
-    <Folder Include="Youzan\" />
-    <Folder Include="Csdn\" />
-    <Folder Include="Alipay\" />
-    <Folder Include="Google\" />
-    <Folder Include="Linkedin\" />
-    <Folder Include="Mi\" />
-    <Folder Include="TencentCloud\" />
-    <Folder Include="Toutiao\" />
+    <Folder Include="Alibaba\Configs\" />
+    <Folder Include="Alipay\Configs\" />
+    <Folder Include="Baidu\Configs\" />
+    <Folder Include="Csdn\Configs\" />
+    <Folder Include="Douyin\Configs\" />
+    <Folder Include="Facebook\Configs\" />
+    <Folder Include="Gitee\Configs\" />
+    <Folder Include="Github\Configs\" />
+    <Folder Include="Google\Configs\" />
+    <Folder Include="Jd\Configs\" />
+    <Folder Include="Linkedin\Configs\" />
+    <Folder Include="MeiliShuo\Configs\" />
+    <Folder Include="Microsoft\Configs\" />
+    <Folder Include="Mi\Configs\" />
+    <Folder Include="Oschina\Configs\" />
+    <Folder Include="Taobao\Configs\" />
+    <Folder Include="TencentCloud\Configs\" />
+    <Folder Include="Toutiao\Configs\" />
+    <Folder Include="Weibo\Configs\" />
+    <Folder Include="Youzan\Configs\" />
   </ItemGroup>
 
 </Project>
