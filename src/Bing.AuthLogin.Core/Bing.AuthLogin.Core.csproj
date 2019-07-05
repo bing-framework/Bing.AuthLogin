@@ -1,0 +1,38 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <RootNamespace>Bing.AuthLogin</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Bing.AuthLogin.Abstractions\Bing.AuthLogin.Abstractions.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Alibaba\" />
+    <Folder Include="Baidu\" />
+    <Folder Include="Coding\" />
+    <Folder Include="DingTalk\" />
+    <Folder Include="Douyin\" />
+    <Folder Include="Facebook\" />
+    <Folder Include="Gitee\" />
+    <Folder Include="Github\" />
+    <Folder Include="Jd\" />
+    <Folder Include="MeiliShuo\" />
+    <Folder Include="Microsoft\" />
+    <Folder Include="Oschina\" />
+    <Folder Include="QQ\" />
+    <Folder Include="Taobao\" />
+    <Folder Include="Weibo\" />
+    <Folder Include="Youzan\" />
+    <Folder Include="Csdn\" />
+    <Folder Include="Alipay\" />
+    <Folder Include="Google\" />
+    <Folder Include="Linkedin\" />
+    <Folder Include="Mi\" />
+    <Folder Include="TencentCloud\" />
+    <Folder Include="Toutiao\" />
+  </ItemGroup>
+
+</Project>
